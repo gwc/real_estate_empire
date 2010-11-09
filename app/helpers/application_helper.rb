@@ -9,4 +9,9 @@ module ApplicationHelper
       "#{base_title} | #{@title}"
     end
   end
+  
+  def logo
+    image_tag("logo.png", :alt => "Real Estate Empire Application", :class => "round")
+  
+  end
 end
