@@ -54,6 +54,7 @@ GEM
       rails (>= 3.0.0.beta4)
     ffi (0.6.3)
       rake (>= 0.8.7)
+    gravatar_image_tag (0.1.0)
     i18n (0.4.1)
     json_pure (1.4.6)
     mail (2.2.7)
@@ -123,6 +124,7 @@ DEPENDENCIES
   annotate-models (= 1.0.4)
   capybara
   factory_girl_rails (= 1.0)
+  gravatar_image_tag (= 0.1.0)
   nokogiri
   rails (= 3.0.1)
   rspec-rails (= 2.0.1)
