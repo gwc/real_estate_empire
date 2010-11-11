@@ -20,4 +20,5 @@ group :test do
   gem 'spork'
   gem 'factory_girl_rails', '1.0'
   gem 'annotate-models', '1.0.4'
+  gem 'factory_girl_rails', '1.0'
 end
