@@ -120,7 +120,7 @@ GEM
     treetop (1.4.8)
       polyglot (>= 0.3.1)
     tzinfo (0.3.23)
-    webrat (0.7.1)
+    webrat (0.7.2)
       nokogiri (>= 1.2.0)
       rack (>= 1.0)
       rack-test (>= 0.5.3)
@@ -142,4 +142,4 @@ DEPENDENCIES
   rspec_tag_matchers
   spork
   sqlite3-ruby
-  webrat (= 0.7.1)
+  webrat (= 0.7.2)

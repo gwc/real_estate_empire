@@ -9,7 +9,7 @@ gem 'heroku'
 gem "spork"
 gem "nokogiri"
 gem "rspec_tag_matchers"
-gem 'webrat', '0.7.1'
+gem 'webrat', '0.7.2'
 gem "capybara"
 
 
